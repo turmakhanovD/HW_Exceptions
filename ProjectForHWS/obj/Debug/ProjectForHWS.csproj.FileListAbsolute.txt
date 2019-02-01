@@ -1,0 +1,7 @@
+C:\Users\Адиль\source\repos\ProjectForHWS\ProjectForHWS\bin\Debug\ProjectForHWS.exe.config
+C:\Users\Адиль\source\repos\ProjectForHWS\ProjectForHWS\bin\Debug\ProjectForHWS.exe
+C:\Users\Адиль\source\repos\ProjectForHWS\ProjectForHWS\bin\Debug\ProjectForHWS.pdb
+C:\Users\Адиль\source\repos\ProjectForHWS\ProjectForHWS\obj\Debug\ProjectForHWS.csprojAssemblyReference.cache
+C:\Users\Адиль\source\repos\ProjectForHWS\ProjectForHWS\obj\Debug\ProjectForHWS.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\source\repos\ProjectForHWS\ProjectForHWS\obj\Debug\ProjectForHWS.exe
+C:\Users\Адиль\source\repos\ProjectForHWS\ProjectForHWS\obj\Debug\ProjectForHWS.pdb
